@@ -856,7 +856,7 @@ form {
     margin: 0;
 }
 
-.fieldset{
+form{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
