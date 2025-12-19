@@ -959,8 +959,9 @@ textarea:focus {
     --color-dark-grey: #333333;
     --color-red: #cd3e65;
     --color-green: #08805b;
-    --valid-color: var(--color-red);
     --valid-color: var(--color-green);
+    --error-color: var(--color-red);
+    
 }
 
 /* Form error handling
